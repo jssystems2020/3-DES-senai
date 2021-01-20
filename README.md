@@ -1,7 +1,7 @@
-Atualizar o commit: (git add .) 
+//Atualizar o commit: (git add .) 
  (git commit -m "nome do commit")
  (git push) 
-Fazer o commit:
+//Fazer o commit:
  (git init)
  (git add .)
  (git commit -m "first commit")
